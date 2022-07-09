@@ -1,16 +1,15 @@
-
+ *{
+    margin: o;
+    padding: o;
+ }
 /* NAVBAR STYLING STARTS */
-body{
-    padding: opx;
-    margin: 0px;
-    background-color: wheat;
-}
+
 .navbar {
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 20px;
-    background-color: #ED661F;
+    background-color: black;
    }
    /* LOGO */
    .logo {
@@ -42,11 +41,19 @@ body{
             color: #2549D3;
         }
    .button {
-  background-color: #0F298B;
+  background-color: #ED661F;
   border: none;
   color: #FAFAFA;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;}
+  font-size: 16px;
+}
+  
+  .main{
+    background-image: url('/../images/image 1.png');
+
+    height: 200px;
+  }
+  
