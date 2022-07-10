@@ -1,6 +1,8 @@
  *{
     margin: o;
     padding: o;
+    box-sizing: border-box;
+    font-family: 'Poppins',Iter;
  }
 /* NAVBAR STYLING STARTS */
 
@@ -61,7 +63,9 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    
 }
+
 select{
     width: 150px;
     height: 30px;
@@ -73,17 +77,9 @@ select{
   select option:first-child{
     color: green;
   }
+  
 
-  .section1{
-    width: 50%;
-    margin:100px auto 100px auto;
-    text-align: left;
-}
-.image1{
-    width: 70%;
-    float: right;
-    margin-left: 30px;
-}
+ 
   
   
   
