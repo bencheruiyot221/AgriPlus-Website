@@ -219,8 +219,58 @@ margin-top: 1200px;
     font-weight: bolder;
     margin-left: 150px;
   }
+.esteemes{
+  line-height: 2;
+  font-size: 40px;
+  color: black;
+  font-weight: bolder;
+  margin-left: 150px; 
+}
+.p1{
+  line-height: 2;
+  font-size: 35px;
+  color: black;
+  font-weight: bolder; 
+}
+.p2{
+  line-height: 2;
+  font-size: 35px;
+  color: black;
+  font-weight: bolder; 
+}
+.p3{
+  line-height: 2;
+  font-size: 35px;
+  color: black;
+  font-weight: bolder;  
+}
+.rec{
+display: inline-flex;
 
-
+}
+.rec1{
+  float: left;
+}
+.p10{
+  margin-left: 50px;
+  margin-top: 40px;
+}
+.rec2{
+  margin-top: 50px;
+  float: left;
+}
+.p12{
+margin-left: 150px;
+margin-top: 140px;
+}
+.rec3{
+  margin-top: -10px;
+  float: left;
+}
+.p13{
+  margin-left: 140px;
+  margin-top: 50px; 
+}
 .flex-container{
   display: flex;
   /* flex-wrap: nowrap; */
