@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: 'Poppins',Iter;
  }
+ /* body{
+  background: wheat;
+ } */
 
 /* NAVBAR STYLING STARTS */
 
@@ -113,17 +116,7 @@
   line-height: 2;
   font-size: 40px;
 }
-select{
-    width: 150px;
-    height: 30px;
-    padding: 5px;
-    color: #2549D3;
-    font-weight: bold;
-  }
-  select option { color: black; }
-  select option:first-child{
-    color: green;
-  }
+
   .exist{
     width: 50%;
     margin:100px auto 100px auto;
