@@ -4,9 +4,8 @@
     box-sizing: border-box;
     font-family: 'Poppins',Iter;
  }
- /* body{
-  background: wheat;
- } */
+ body{
+position: relative; }
 
 /* NAVBAR STYLING STARTS */
 
@@ -82,6 +81,7 @@
     background-position: center;
     background-size: cover;
     box-sizing: border-box;
+    position: absolute;
     
     
 }
@@ -111,21 +111,64 @@
   font-size: 20px;
 
 }
+.customersli{
+  background-color: white;
+  display: inline-flex;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+
+  margin-left: 20%;
+  position: absolute;
+  margin-top: 900px;
+  margin-left: 40%;
+
+}
+.Customers{
+
+  /* margin:100px auto 100px auto; */
+  padding: 30px;
+  margin-left: 10px;
+}
+.positioning{
+  position: absolute;
+margin-top: 1200px;
+}
+.exist{
+  width: 90%;
+  margin-left: 100px;
+  margin-right: 100px;
+  box-sizing: border-box;
+
+}
+
 
 #button{
   line-height: 2;
   font-size: 40px;
 }
 
+
   .exist{
     width: 50%;
     margin:100px auto 100px auto;
     text-align: left;
+  
+  }
+  .exist1{
+    width: 90%;
+  margin-left: 100px;
+  margin-right: 100px;
+  box-sizing: border-box;
+  .exist2{
+    
+  }
+
   }
   .image2{
     width: 70%;
-    float: right;
-    margin-left: 30px;
+  float: right;
+  margin-left: 30px;
   }
   .text{
     width: 50%;
