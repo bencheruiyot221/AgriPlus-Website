@@ -150,9 +150,10 @@ margin-top: 1200px;
 
 
   .exist{
-    width: 50%;
+    width: 100%;
     margin:100px auto 100px auto;
     text-align: left;
+    justify-content: space-between;
   
   }
   .exist1{
@@ -160,9 +161,23 @@ margin-top: 1200px;
   margin-left: 100px;
   margin-right: 100px;
   box-sizing: border-box;
-  .exist2{
-    
+  justify-content: space-between;
+
+  
+
   }
+  .exist2{
+    margin-top: 100px;
+  }
+  .exist3{
+    line-height: 2;
+    font-size: 40px;
+    color: black;
+    font-weight: bolder;
+  }
+  .existp{
+    line-height: 2;
+  font-size: 20px;
 
   }
   .image2{
@@ -174,8 +189,38 @@ margin-top: 1200px;
     width: 50%;
     margin:100px auto 100px auto;
     text-align: left;
-    margin-top: 300px;
+    margin-top: 500px;
+    padding-top: 5px;
   }
+  .categoryh1{
+    line-height: 2;
+    font-size: 40px;
+    color: black;
+    font-weight: bolder;
+  }
+  .categoryp{
+    line-height: 2;
+    font-size: 25px;
+    margin-left: -5%;
+  }
+  
+  .most{
+    line-height: 2;
+    font-size: 40px;
+    color: black;
+    font-weight: bolder;
+    margin-left: 150px;
+  }
+
+  .newest{
+    line-height: 2;
+    font-size: 40px;
+    color: black;
+    font-weight: bolder;
+    margin-left: 150px;
+  }
+
+
 .flex-container{
   display: flex;
   /* flex-wrap: nowrap; */
