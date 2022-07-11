@@ -50,7 +50,7 @@
 
 
         .login{
-          background-color: #ED661F;
+          background-color:black ;
           border: none;
           color: #FAFAFA;
           padding: 15px 32px;
@@ -58,6 +58,8 @@
           text-decoration: none;
           display: inline-block;
           font-size: 16px;
+          font-weight: bolder;
+          margin-left: 30%;
         }
    .button {
   background-color: #ED661F;
@@ -80,8 +82,8 @@
 }
 .explore1{
   width: 50%;
-    margin:100px auto 100px auto;
-    text-align: left;
+    /* margin:100px 50px 100px 50px; */
+    
 }
 .image1{
   width: 70%;
