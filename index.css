@@ -78,11 +78,15 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    box-sizing: border-box;
+    
     
 }
 .explore1{
-  width: 50%;
-    /* margin:100px 50px 100px 50px; */
+  width: 90%;
+  margin-left: 100px;
+  margin-right: 100px;
+  box-sizing: border-box;
     
 }
 .image1{
@@ -90,7 +94,25 @@
   float: right;
   margin-left: 30px;
 }
+.buying{
+  margin-top: 100px;
+}
+.buying1{
+  line-height: 2;
+  font-size: 40px;
+  color: black;
+  font-weight: bolder;
+}
+.buyerp{
+  line-height: 2;
+  font-size: 20px;
 
+}
+
+#button{
+  line-height: 2;
+  font-size: 40px;
+}
 select{
     width: 150px;
     height: 30px;
