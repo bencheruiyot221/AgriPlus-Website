@@ -122,6 +122,12 @@ select{
   width: 80%;
   height: auto;
 }
+.lorem{
+  display: inline-flex;
+  overflow: hidden;
+}
+
+
 .ipsum{
   width: 50%;
   margin:100px auto 100px auto;
@@ -129,6 +135,11 @@ select{
   background-color: white;
   padding: 50px;
   margin-left: 40px;
+}
+.footer1{
+  width: 100%;
+  min-height: 200px;
+  background: black;
 }
  
   
